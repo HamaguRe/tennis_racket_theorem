@@ -1,0 +1,8 @@
+[package]
+name = "tennis_racket_theorem"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+quaternion-core = "0.3.4"
+nalgebra = "0.31"
