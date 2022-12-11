@@ -44,6 +44,7 @@ void draw() {
     text("X",  60, 280);
     text("Y", 330, 280);
     text("Z", 195, 40);
+    text("space-denpa.jp", 280, 380);
 
     pushMatrix();
     // 原点をウィンドウの中心に移動

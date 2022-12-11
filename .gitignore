@@ -1,3 +1,4 @@
 /target
 Cargo.lock
 /plot_animation/outFrames/*
+/result.csv
